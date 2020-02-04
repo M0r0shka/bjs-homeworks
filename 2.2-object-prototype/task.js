@@ -1,14 +1,14 @@
-function getResult(a,b,c){
+function getAnimalSound(animal) {
     // код для задачи №1 писать здесь
-    // return x;
+    // return animalSound;
 }
 
-function getAverageMark(marks){
+function getAverageMark(marks) {
     // код для задачи №2 писать здесь
-    // return averageMark;
+    // return averageMark
 }
 
-function askDrink(name,dateOfBirthday){
+function checkBirthday(birthday) {
     // код для задачи №3 писать здесь
-    // return result;
+    // return verdict
 }
